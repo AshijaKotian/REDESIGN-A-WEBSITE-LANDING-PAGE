@@ -12,7 +12,7 @@
 
 ** MENTOR **: NEELA SANTOSH
 
-**DESCRIPTION OF TASK**
+** DESCRIPTION OF TASK **
 
 Redesigning the Meesho Landing Page
 For my redesign project I chose the Meesho website landing page. While the original page works fine, I felt that it looked a bit crowded and could be made more user-friendly. The main issues I noticed were the too many menu options at the top, a very large banner that pushed products down, and a lack of clear flow to guide the user’s eye.
@@ -22,9 +22,13 @@ In my redesign I wanted to make the page look cleaner, easier to use, and more m
 3.	Visual Flow – I used clearer headings, proper spacing, and softer colours to make the design easy on the eyes. Products and deals are shown in neat layouts so users can scan through them quickly.
 4.	Personalization Section- Added “Recommended for You” or “Based on Your Last Search” section for returning users.
 5.	Footer Cleanup- Too many small links were removed and I reorganized it with better grouping (Company, Support, Shop by Category).
-Before vs After:
+
+** Before vs After **:
+
 •	Before: Crowded navigation, oversized banner, scattered product placements.
 <img width="1900" height="908" alt="Image" src="https://github.com/user-attachments/assets/7af82cee-784b-40a5-b248-056579f0414b" />
+
 •	After: Cleaner layout, easier navigation, modern visuals, and clear actions.
+
 
 
