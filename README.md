@@ -29,6 +29,7 @@ In my redesign I wanted to make the page look cleaner, easier to use, and more m
 <img width="1900" height="908" alt="Image" src="https://github.com/user-attachments/assets/7af82cee-784b-40a5-b248-056579f0414b" />
 
 •	After: Cleaner layout, easier navigation, modern visuals, and clear actions.
+
 <img width="377" height="581" alt="Image" src="https://github.com/user-attachments/assets/bc32d224-dde3-46eb-a2e2-0496070c2fd2" />
 
 
